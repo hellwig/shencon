@@ -1,0 +1,250 @@
+# depslib dependency file v1.0
+1415405084 source:c:\users\marc\eigene programme\unpacker\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<map>
+	<vector>
+
+1417208773 source:c:\users\marc\google drive\projekte\unpacker\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<map>
+	<vector>
+	<strings.h>
+	"pngwriter.h"
+	"pvrspi.h"
+	"buffer.h"
+	"mt5parser.h"
+	"database.h"
+
+1415771527 source:c:\users\marc\google drive\projekte\unpacker\pvrtdecompress.cpp
+	<stdlib.h>
+	<stdio.h>
+	<limits.h>
+	<math.h>
+	<string.h>
+	<iostream>
+	<algorithm>
+	"PVRTDecompress.h"
+
+1415813248 c:\users\marc\google drive\projekte\unpacker\pvrtdecompress.h
+
+1416263174 source:c:\users\marc\google drive\projekte\unpacker\pngwriter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<png.h>
+	"pngwriter.h"
+
+1415803043 c:\users\marc\google drive\projekte\unpacker\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1415803043 c:\users\marc\google drive\projekte\unpacker\pnglibconf.h
+
+1415803043 c:\users\marc\google drive\projekte\unpacker\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1416263157 c:\users\marc\google drive\projekte\unpacker\pngwriter.h
+
+1415890855 c:\users\marc\google drive\projekte\unpacker\pvrspi.h
+
+1416537717 source:c:\users\marc\google drive\projekte\unpacker\pvrspi.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pvrspi.h"
+
+1416320721 source:c:\users\marc\google drive\projekte\unpacker\buffer.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<strings.h>
+	<zlib.h>
+	"buffer.h"
+
+1416320749 c:\users\marc\google drive\projekte\unpacker\buffer.h
+
+1417208781 source:c:\users\marc\google drive\projekte\unpacker\mt5parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<string>
+	<vector>
+	<strings.h>
+	"buffer.h"
+	"pngwriter.h"
+	"pvrspi.h"
+	"mt5parser.h"
+	"taparser.h"
+	"database.h"
+
+1416783330 c:\users\marc\google drive\projekte\unpacker\mt5parser.h
+	<iostream>
+	<string>
+	"buffer.h"
+
+1367191429 c:\users\marc\google drive\projekte\unpacker\zlib.h
+	"zconf.h"
+
+1367186231 c:\users\marc\google drive\projekte\unpacker\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1416571500 source:c:\users\marc\google drive\projekte\unpacker\taparser.cpp
+	<string>
+	<iostream>
+	"taparser.h"
+	"buffer.h"
+
+1416571506 c:\users\marc\google drive\projekte\unpacker\taparser.h
+	"buffer.h"
+
+1416783222 c:\users\marc\google drive\projekte\unpacker\texdb.h
+	<vector>
+	"mt5parser.h"
+
+1416784236 source:c:\users\marc\google drive\projekte\unpacker\texdb.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<strings.h>
+	"texdb.h"
+
+1417208409 source:c:\users\marc\google drive\projekte\unpacker\database.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<strings.h>
+	"database.h"
+
+1417208369 c:\users\marc\google drive\projekte\unpacker\database.h
+	<vector>
+	<string>
+	"mt5parser.h"
+
+1416320722 source:c:\users\march_000\documents\projekte\unpacker\buffer.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<strings.h>
+	<zlib.h>
+	"buffer.h"
+
+1367195030 c:\users\march_000\documents\projekte\unpacker\zlib.h
+	"zconf.h"
+
+1367189832 c:\users\march_000\documents\projekte\unpacker\zconf.h
+	<windows.h>
+	<limits.h>
+	<sys/types.h>
+	<stdarg.h>
+	<stddef.h>
+	<unistd.h>
+	<unixio.h>
+
+1416320750 c:\users\march_000\documents\projekte\unpacker\buffer.h
+
+1417208774 source:c:\users\march_000\documents\projekte\unpacker\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<sstream>
+	<map>
+	<vector>
+	<strings.h>
+	"pngwriter.h"
+	"pvrspi.h"
+	"buffer.h"
+	"mt5parser.h"
+	"database.h"
+
+1416263158 c:\users\march_000\documents\projekte\unpacker\pngwriter.h
+
+1415890856 c:\users\march_000\documents\projekte\unpacker\pvrspi.h
+
+1417373809 c:\users\march_000\documents\projekte\unpacker\mt5parser.h
+	<iostream>
+	<string>
+	"buffer.h"
+
+1417375154 c:\users\march_000\documents\projekte\unpacker\database.h
+	<vector>
+	<string>
+	"mt5parser.h"
+
+1416263176 source:c:\users\march_000\documents\projekte\unpacker\pngwriter.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<png.h>
+	"pngwriter.h"
+
+1415803044 c:\users\march_000\documents\projekte\unpacker\png.h
+	"pnglibconf.h"
+	"pngconf.h"
+
+1415803044 c:\users\march_000\documents\projekte\unpacker\pnglibconf.h
+
+1415803044 c:\users\march_000\documents\projekte\unpacker\pngconf.h
+	<limits.h>
+	<stddef.h>
+	<stdio.h>
+	<setjmp.h>
+	<time.h>
+
+1416537718 source:c:\users\march_000\documents\projekte\unpacker\pvrspi.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pvrspi.h"
+
+1416571502 source:c:\users\march_000\documents\projekte\unpacker\taparser.cpp
+	<string>
+	<iostream>
+	"taparser.h"
+	"buffer.h"
+
+1416571508 c:\users\march_000\documents\projekte\unpacker\taparser.h
+	"buffer.h"
+
+1417377736 source:c:\users\march_000\documents\projekte\unpacker\database.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<strings.h>
+	"database.h"
+
+1417377292 source:c:\users\march_000\documents\projekte\unpacker\mt5parser.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<map>
+	<string>
+	<vector>
+	<strings.h>
+	"buffer.h"
+	"pngwriter.h"
+	"pvrspi.h"
+	"mt5parser.h"
+	"taparser.h"
+	"database.h"
+
